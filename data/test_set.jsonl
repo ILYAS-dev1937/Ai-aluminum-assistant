@@ -1,0 +1,40 @@
+{"question": "What is the inertia of profile 998?", "expected_answer_contains": "22 cm4", "relevant_chunk_ids": ["profile_998"], "difficulty": "easy"}
+{"question": "What is the inertia of profile 999?", "expected_answer_contains": "42 cm4", "relevant_chunk_ids": ["profile_999"], "difficulty": "easy"}
+{"question": "What is the inertia of profile 897?", "expected_answer_contains": "12.1 cm4", "relevant_chunk_ids": ["profile_897"], "difficulty": "easy"}
+{"question": "What glazing thickness does RUBIS 85 accept?", "expected_answer_contains": "20mm", "relevant_chunk_ids": ["spec_glazing_thickness_range_rubis_85", "safety_24mm_85"], "difficulty": "easy"}
+{"question": "What glazing thickness does RUBIS 95 accept?", "expected_answer_contains": "24mm", "relevant_chunk_ids": ["spec_glazing_thickness_range_rubis_95"], "difficulty": "easy"}
+{"question": "What is the AEV classification of RUBIS?", "expected_answer_contains": "A4", "relevant_chunk_ids": ["spec_aev_classification___air_permeability"], "difficulty": "easy"}
+{"question": "What alloy are MAVAL profiles made of?", "expected_answer_contains": "6060", "relevant_chunk_ids": ["spec_material_alloy"], "difficulty": "easy"}
+{"question": "What is the load capacity of galet 7550?", "expected_answer_contains": "60 kg", "relevant_chunk_ids": ["accessory_7550"], "difficulty": "easy"}
+{"question": "What is the load capacity of galet 7553?", "expected_answer_contains": "120 kg", "relevant_chunk_ids": ["accessory_7553"], "difficulty": "easy"}
+{"question": "What is the maximum glazing for RUBIS 85?", "expected_answer_contains": "20mm", "relevant_chunk_ids": ["spec_glazing_thickness_range_rubis_85", "safety_24mm_85"], "difficulty": "easy"}
+{"question": "Can I use gasket 8516 with profile 956?", "expected_answer_contains": "No", "relevant_chunk_ids": ["safety_gasket_85_in_95", "accessory_9516"], "difficulty": "medium"}
+{"question": "Can I use 24mm glazing in RUBIS 85?", "expected_answer_contains": "No", "relevant_chunk_ids": ["safety_24mm_85"], "difficulty": "medium"}
+{"question": "Which roller should I choose for a heavy 120kg panel?", "expected_answer_contains": "7553", "relevant_chunk_ids": ["accessory_7553"], "difficulty": "medium"}
+{"question": "What is the difference between RUBIS 85 and RUBIS 95?", "expected_answer_contains": "20mm", "relevant_chunk_ids": ["qa_rubis_85_vs_rubis_95___key_differences"], "difficulty": "medium"}
+{"question": "What profiles do I need for a 2-panel sliding window in RUBIS 95 with dormant 951?", "expected_answer_contains": "951", "relevant_chunk_ids": ["cutlist_2v_d951_rubis95"], "difficulty": "medium"}
+{"question": "What is the cut length for traverse 956 in a 2-panel RUBIS 95 with dormant 951?", "expected_answer_contains": "L/2-32", "relevant_chunk_ids": ["cutlist_2v_d951_rubis95"], "difficulty": "medium"}
+{"question": "Can I use dormant 851 with both RUBIS 85 and RUBIS 95?", "expected_answer_contains": "Yes", "relevant_chunk_ids": ["qa_can_i_use_dormant_851_with_both_the_85_rubis"], "difficulty": "medium"}
+{"question": "What is the correct glazing size formula for a 2-panel window?", "expected_answer_contains": "L/2-90", "relevant_chunk_ids": ["qa_what_is_the_correct_glazing_size_formula_for_a"], "difficulty": "medium"}
+{"question": "What locking options are available for RUBIS sliding windows?", "expected_answer_contains": "FAPIM", "relevant_chunk_ids": ["qa_what_locking_options_are_available_for_a_rubis_sl"], "difficulty": "medium"}
+{"question": "What is a Coulifixe 95 system?", "expected_answer_contains": "fixed", "relevant_chunk_ids": ["qa_what_is_a_coulifixe_95_system"], "difficulty": "medium"}
+{"question": "What is the material of MAVAL aluminium profiles?", "expected_answer_contains": "6060", "relevant_chunk_ids": ["qa_what_is_the_material_of_maval_aluminium_profiles"], "difficulty": "medium"}
+{"question": "What surface finishes are available?", "expected_answer_contains": "anodisation", "relevant_chunk_ids": ["qa_what_surface_finishes_are_available_for_rubis_pr"], "difficulty": "medium"}
+{"question": "Which FAPIM hook for RUBIS 85?", "expected_answer_contains": "7028", "relevant_chunk_ids": ["safety_hook_85"], "difficulty": "medium"}
+{"question": "Which FAPIM hook for RUBIS 95?", "expected_answer_contains": "7029", "relevant_chunk_ids": ["accessory_7029"], "difficulty": "medium"}
+{"question": "What is the pre-frame coverage for 950/951?", "expected_answer_contains": "60mm", "relevant_chunk_ids": ["spec_pre-frame_coverage___950_951_dormant_series"], "difficulty": "medium"}
+{"question": "I need a 3-panel RUBIS 95, dormant 951, opening 3000x2200. What are my cut lengths?", "expected_answer_contains": "3000", "relevant_chunk_ids": ["cutlist_3v_d951_rubis95", "assembly_guide"], "difficulty": "hard"}
+{"question": "Can I use sash profile 856 in a RUBIS 95 window?", "expected_answer_contains": "No", "relevant_chunk_ids": ["safety_sash_85_in_95"], "difficulty": "hard"}
+{"question": "What is the difference between 850 and 851?", "expected_answer_contains": "cover joint", "relevant_chunk_ids": ["profile_850", "profile_851"], "difficulty": "hard"}
+{"question": "Can I use VERSUS hook 9033 in RUBIS 85?", "expected_answer_contains": "No", "relevant_chunk_ids": ["safety_versus_85"], "difficulty": "hard"}
+{"question": "What is the moment of inertia for the reinforced central upright in RUBIS 95?", "expected_answer_contains": "22 cm4", "relevant_chunk_ids": ["profile_998"], "difficulty": "hard"}
+{"question": "For a 4-panel RUBIS 95 with dormant 951, how many traverse 956 do I need?", "expected_answer_contains": "8", "relevant_chunk_ids": ["cutlist_4v_d951_rubis95"], "difficulty": "hard"}
+{"question": "What is the AEV water tightness class?", "expected_answer_contains": "E8A", "relevant_chunk_ids": ["spec_aev_classification___water_tightness"], "difficulty": "hard"}
+{"question": "Can I use glazing gasket 9524 with RUBIS 85?", "expected_answer_contains": "No", "relevant_chunk_ids": ["safety_24mm_85", "safety_gasket_85_in_95"], "difficulty": "hard"}
+{"question": "What is the cut angle for frame profiles?", "expected_answer_contains": "45°", "relevant_chunk_ids": ["assembly_guide"], "difficulty": "hard"}
+{"question": "What is the cut angle for sash profiles?", "expected_answer_contains": "90°", "relevant_chunk_ids": ["assembly_guide"], "difficulty": "hard"}
+{"question": "What is the maximum roller capacity for a simple roller?", "expected_answer_contains": "60 kg", "relevant_chunk_ids": ["accessory_7550"], "difficulty": "hard"}
+{"question": "What is the frame assembly corner sealing material?", "expected_answer_contains": "Ordoflex", "relevant_chunk_ids": ["assembly_guide"], "difficulty": "hard"}
+{"question": "Can I pair frame 950 with sash 857?", "expected_answer_contains": "No", "relevant_chunk_ids": ["safety_dormant_950_85"], "difficulty": "hard"}
+{"question": "What is the width of profile 951?", "expected_answer_contains": "72mm", "relevant_chunk_ids": ["profile_951"], "difficulty": "hard"}
+{"question": "What is the height of the sash tubular section for RUBIS 95?", "expected_answer_contains": "33mm", "relevant_chunk_ids": ["spec_sash_tubular_section_height___rubis_95"], "difficulty": "hard"}

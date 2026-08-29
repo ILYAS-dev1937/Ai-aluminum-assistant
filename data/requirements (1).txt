@@ -1,0 +1,14 @@
+# Core
+chromadb==0.5.5
+sentence-transformers==3.0.1
+rank-bm25==0.2.2
+numpy==1.26.4
+
+# LLM
+openai==1.37.1
+
+# App
+streamlit==1.37.0
+
+# Utils
+python-dotenv==1.0.1

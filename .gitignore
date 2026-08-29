@@ -163,3 +163,11 @@ __pycache__/
 
 # VS Code
 .vscode/
+
+# Generated RAG/vector database files
+data/chroma_db/
+data/processed/*.pkl
+data/processed/chunks.json
+
+# Generated Chroma database
+scripts/data/chroma_db/
